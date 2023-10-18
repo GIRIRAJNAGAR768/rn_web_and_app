@@ -11,6 +11,11 @@
     "web": "react-scripts start"
   },
   "dependencies": {
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
+    "@melorra/component": "^0.0.2",
+    "@melorra/schema": "^0.0.2",
+    "@melorra/theme": "^0.0.2",
+    "@melorra/types": "^0.0.2",
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-native": "0.72.6",
